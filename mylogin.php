@@ -91,7 +91,7 @@
 				  //$first=$_POST['fir'];
 				  //$last=$_POST['las'];
 				  //$emailid=$_POST['ema'];
-                  //$phone=$_POST['pho'];
+                 		  //$phone=$_POST['pho'];
 				  //$msg=$_POST['mess'];
                   
                   $first=mysqli_real_escape_string($conn, $_POST['fir']);
